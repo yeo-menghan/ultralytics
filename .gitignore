@@ -173,3 +173,6 @@ pnnx*
 
 # calibration image
 calibration_*.npy
+
+# SAHI videos
+/examples/YOLOv8-SAHI-Inference-Video/ultralytics_results_with_sahi/
